@@ -36,10 +36,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Bangla',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/bangla1st',
-      markedBooks: 'https://your-books-url.com/bangla1st',
-      chapterClasses: 'https://your-classes-url.com/bangla1st',
-      chapterNotes: 'https://your-notes-url.com/bangla1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -49,10 +49,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Bangla',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/bangla2nd',
-      markedBooks: 'https://your-books-url.com/bangla2nd',
-      chapterClasses: 'https://your-classes-url.com/bangla2nd',
-      chapterNotes: 'https://your-notes-url.com/bangla2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -62,10 +62,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'English',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/english1st',
-      markedBooks: 'https://your-books-url.com/english1st',
-      chapterClasses: 'https://your-classes-url.com/english1st',
-      chapterNotes: 'https://your-notes-url.com/english1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -75,10 +75,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'English',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/english2nd',
-      markedBooks: 'https://your-books-url.com/english2nd',
-      chapterClasses: 'https://your-classes-url.com/english2nd',
-      chapterNotes: 'https://your-notes-url.com/english2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -88,10 +88,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'ICT',
     paper: '',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/ict',
-      markedBooks: 'https://your-books-url.com/ict',
-      chapterClasses: 'https://your-classes-url.com/ict',
-      chapterNotes: 'https://your-notes-url.com/ict',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -101,10 +101,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Physics',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/physics1st',
-      markedBooks: 'https://your-books-url.com/physics1st',
-      chapterClasses: 'https://your-classes-url.com/physics1st',
-      chapterNotes: 'https://your-notes-url.com/physics1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -114,10 +114,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Physics',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/physics2nd',
-      markedBooks: 'https://your-books-url.com/physics2nd',
-      chapterClasses: 'https://your-classes-url.com/physics2nd',
-      chapterNotes: 'https://your-notes-url.com/physics2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -127,10 +127,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Chemistry',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/chemistry1st',
-      markedBooks: 'https://your-books-url.com/chemistry1st',
-      chapterClasses: 'https://your-classes-url.com/chemistry1st',
-      chapterNotes: 'https://your-notes-url.com/chemistry1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -140,10 +140,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Chemistry',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/chemistry2nd',
-      markedBooks: 'https://your-books-url.com/chemistry2nd',
-      chapterClasses: 'https://your-classes-url.com/chemistry2nd',
-      chapterNotes: 'https://your-notes-url.com/chemistry2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -153,10 +153,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Biology',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/biology1st',
-      markedBooks: 'https://your-books-url.com/biology1st',
-      chapterClasses: 'https://your-classes-url.com/biology1st',
-      chapterNotes: 'https://your-notes-url.com/biology1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -166,10 +166,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Biology',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/biology2nd',
-      markedBooks: 'https://your-books-url.com/biology2nd',
-      chapterClasses: 'https://your-classes-url.com/biology2nd',
-      chapterNotes: 'https://your-notes-url.com/biology2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -179,10 +179,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Higher Math',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/highermath1st',
-      markedBooks: 'https://your-books-url.com/highermath1st',
-      chapterClasses: 'https://your-classes-url.com/highermath1st',
-      chapterNotes: 'https://your-notes-url.com/highermath1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -192,10 +192,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Higher Math',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/highermath2nd',
-      markedBooks: 'https://your-books-url.com/highermath2nd',
-      chapterClasses: 'https://your-classes-url.com/highermath2nd',
-      chapterNotes: 'https://your-notes-url.com/highermath2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -205,10 +205,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Statistics',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/statistics1st',
-      markedBooks: 'https://your-books-url.com/statistics1st',
-      chapterClasses: 'https://your-classes-url.com/statistics1st',
-      chapterNotes: 'https://your-notes-url.com/statistics1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -218,10 +218,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Statistics',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/statistics2nd',
-      markedBooks: 'https://your-books-url.com/statistics2nd',
-      chapterClasses: 'https://your-classes-url.com/statistics2nd',
-      chapterNotes: 'https://your-notes-url.com/statistics2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -231,10 +231,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Economics',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/economics1st',
-      markedBooks: 'https://your-books-url.com/economics1st',
-      chapterClasses: 'https://your-classes-url.com/economics1st',
-      chapterNotes: 'https://your-notes-url.com/economics1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -244,10 +244,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Economics',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/economics2nd',
-      markedBooks: 'https://your-books-url.com/economics2nd',
-      chapterClasses: 'https://your-classes-url.com/economics2nd',
-      chapterNotes: 'https://your-notes-url.com/economics2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -257,10 +257,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Accounting',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/accounting1st',
-      markedBooks: 'https://your-books-url.com/accounting1st',
-      chapterClasses: 'https://your-classes-url.com/accounting1st',
-      chapterNotes: 'https://your-notes-url.com/accounting1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -270,10 +270,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Accounting',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/accounting2nd',
-      markedBooks: 'https://your-books-url.com/accounting2nd',
-      chapterClasses: 'https://your-classes-url.com/accounting2nd',
-      chapterNotes: 'https://your-notes-url.com/accounting2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -283,10 +283,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Management',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/management1st',
-      markedBooks: 'https://your-books-url.com/management1st',
-      chapterClasses: 'https://your-classes-url.com/management1st',
-      chapterNotes: 'https://your-notes-url.com/management1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -296,10 +296,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Management',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/management2nd',
-      markedBooks: 'https://your-books-url.com/management2nd',
-      chapterClasses: 'https://your-classes-url.com/management2nd',
-      chapterNotes: 'https://your-notes-url.com/management2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -309,10 +309,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Finance',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/finance1st',
-      markedBooks: 'https://your-books-url.com/finance1st',
-      chapterClasses: 'https://your-classes-url.com/finance1st',
-      chapterNotes: 'https://your-notes-url.com/finance1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -322,10 +322,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Finance',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/finance2nd',
-      markedBooks: 'https://your-books-url.com/finance2nd',
-      chapterClasses: 'https://your-classes-url.com/finance2nd',
-      chapterNotes: 'https://your-notes-url.com/finance2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -335,10 +335,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Marketing',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/marketing1st',
-      markedBooks: 'https://your-books-url.com/marketing1st',
-      chapterClasses: 'https://your-classes-url.com/marketing1st',
-      chapterNotes: 'https://your-notes-url.com/marketing1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -348,10 +348,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Marketing',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/marketing2nd',
-      markedBooks: 'https://your-books-url.com/marketing2nd',
-      chapterClasses: 'https://your-classes-url.com/marketing2nd',
-      chapterNotes: 'https://your-notes-url.com/marketing2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -362,10 +362,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Geography',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/geography1st',
-      markedBooks: 'https://your-books-url.com/geography1st',
-      chapterClasses: 'https://your-classes-url.com/geography1st',
-      chapterNotes: 'https://your-notes-url.com/geography1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -375,10 +375,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Geography',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/geography2nd',
-      markedBooks: 'https://your-books-url.com/geography2nd',
-      chapterClasses: 'https://your-classes-url.com/geography2nd',
-      chapterNotes: 'https://your-notes-url.com/geography2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -388,10 +388,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'History',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/history1st',
-      markedBooks: 'https://your-books-url.com/history1st',
-      chapterClasses: 'https://your-classes-url.com/history1st',
-      chapterNotes: 'https://your-notes-url.com/history1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -401,10 +401,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'History',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/history2nd',
-      markedBooks: 'https://your-books-url.com/history2nd',
-      chapterClasses: 'https://your-classes-url.com/history2nd',
-      chapterNotes: 'https://your-notes-url.com/history2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -415,10 +415,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Islamic History',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/islamichistory1st',
-      markedBooks: 'https://your-books-url.com/islamichistory1st',
-      chapterClasses: 'https://your-classes-url.com/islamichistory1st',
-      chapterNotes: 'https://your-notes-url.com/islamichistory1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -428,10 +428,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Islamic History',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/islamichistory2nd',
-      markedBooks: 'https://your-books-url.com/islamichistory2nd',
-      chapterClasses: 'https://your-classes-url.com/islamichistory2nd',
-      chapterNotes: 'https://your-notes-url.com/islamichistory2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -441,10 +441,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Islamic Studies',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/islamicstudies1st',
-      markedBooks: 'https://your-books-url.com/islamicstudies1st',
-      chapterClasses: 'https://your-classes-url.com/islamicstudies1st',
-      chapterNotes: 'https://your-notes-url.com/islamicstudies1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -454,10 +454,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Islamic Studies',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/islamicstudies2nd',
-      markedBooks: 'https://your-books-url.com/islamicstudies2nd',
-      chapterClasses: 'https://your-classes-url.com/islamicstudies2nd',
-      chapterNotes: 'https://your-notes-url.com/islamicstudies2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -468,10 +468,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Psychology',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/psychology1st',
-      markedBooks: 'https://your-books-url.com/psychology1st',
-      chapterClasses: 'https://your-classes-url.com/psychology1st',
-      chapterNotes: 'https://your-notes-url.com/psychology1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -481,10 +481,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Psychology',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/psychology2nd',
-      markedBooks: 'https://your-books-url.com/psychology2nd',
-      chapterClasses: 'https://your-classes-url.com/psychology2nd',
-      chapterNotes: 'https://your-notes-url.com/psychology2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -495,10 +495,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Civics',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/civics1st',
-      markedBooks: 'https://your-books-url.com/civics1st',
-      chapterClasses: 'https://your-classes-url.com/civics1st',
-      chapterNotes: 'https://your-notes-url.com/civics1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -508,10 +508,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Civics',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/civics2nd',
-      markedBooks: 'https://your-books-url.com/civics2nd',
-      chapterClasses: 'https://your-classes-url.com/civics2nd',
-      chapterNotes: 'https://your-notes-url.com/civics2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -521,10 +521,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Logic',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/logic1st',
-      markedBooks: 'https://your-books-url.com/logic1st',
-      chapterClasses: 'https://your-classes-url.com/logic1st',
-      chapterNotes: 'https://your-notes-url.com/logic1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -534,10 +534,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Logic',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/logic2nd',
-      markedBooks: 'https://your-books-url.com/logic2nd',
-      chapterClasses: 'https://your-classes-url.com/logic2nd',
-      chapterNotes: 'https://your-notes-url.com/logic2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -547,10 +547,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Social Work',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/socialwork1st',
-      markedBooks: 'https://your-books-url.com/socialwork1st',
-      chapterClasses: 'https://your-classes-url.com/socialwork1st',
-      chapterNotes: 'https://your-notes-url.com/socialwork1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -560,10 +560,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Social Work',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/socialwork2nd',
-      markedBooks: 'https://your-books-url.com/socialwork2nd',
-      chapterClasses: 'https://your-classes-url.com/socialwork2nd',
-      chapterNotes: 'https://your-notes-url.com/socialwork2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -573,10 +573,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Sociology',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/sociology1st',
-      markedBooks: 'https://your-books-url.com/sociology1st',
-      chapterClasses: 'https://your-classes-url.com/sociology1st',
-      chapterNotes: 'https://your-notes-url.com/sociology1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -586,10 +586,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Sociology',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/sociology2nd',
-      markedBooks: 'https://your-books-url.com/sociology2nd',
-      chapterClasses: 'https://your-classes-url.com/sociology2nd',
-      chapterNotes: 'https://your-notes-url.com/sociology2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -599,10 +599,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Agriculture',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/agriculture1st',
-      markedBooks: 'https://your-books-url.com/agriculture1st',
-      chapterClasses: 'https://your-classes-url.com/agriculture1st',
-      chapterNotes: 'https://your-notes-url.com/agriculture1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -612,10 +612,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Agriculture',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/agriculture2nd',
-      markedBooks: 'https://your-books-url.com/agriculture2nd',
-      chapterClasses: 'https://your-classes-url.com/agriculture2nd',
-      chapterNotes: 'https://your-notes-url.com/agriculture2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -625,10 +625,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Agricultural Education',
     paper: '1st Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/agriculturaleducation1st',
-      markedBooks: 'https://your-books-url.com/agriculturaleducation1st',
-      chapterClasses: 'https://your-classes-url.com/agriculturaleducation1st',
-      chapterNotes: 'https://your-notes-url.com/agriculturaleducation1st',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 
@@ -638,10 +638,10 @@ export const subjectDatabase: Record<string, SubjectData> = {
     mainSubject: 'Agricultural Education',
     paper: '2nd Paper',
     urls: {
-      syllabus: 'https://your-syllabus-url.com/agriculturaleducation2nd',
-      markedBooks: 'https://your-books-url.com/agriculturaleducation2nd',
-      chapterClasses: 'https://your-classes-url.com/agriculturaleducation2nd',
-      chapterNotes: 'https://your-notes-url.com/agriculturaleducation2nd',
+      syllabus: 'https://drive.google.com/drive/folders/11rV948jnux8vdGuLqM02pUndlPgZ0jEz',
+      markedBooks: 'https://drive.google.com/drive/folders/11wML_1PpGz00c_o-K5TVQlkozQD6eoV2',
+      chapterClasses: 'https://youtube.com/playlist?list=PLuaHF6yUT-71U1rzdYwvMJWsJYhRpzG80&feature=shared',
+      chapterNotes: 'https://drive.google.com/drive/folders/126OdgzmvuFcC1AZDlfd0D4kGH83lozaZ',
     },
   },
 };
