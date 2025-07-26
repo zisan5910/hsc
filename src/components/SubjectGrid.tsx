@@ -1,6 +1,20 @@
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { BookOpen, Calculator, Beaker, Microscope, Globe, Users, TrendingUp, BarChart3, Brain, Landmark, History, TreePine, Heart, Lightbulb, Monitor, Languages, Building, CreditCard, DollarSign, Atom, FlaskConical, Dna, Calculator as MathIcon, PieChart, Coins, Building2, TrendingDown, Briefcase, MapPin, Clock, Fuel as Mosque, Scale, HeartHandshake, UserCheck, Wheat, Sprout, BookText, Pen, Code } from "lucide-react"group }: SubjectGridProps) => {
+import { BookOpen, Calculator, Beaker, Microscope, Globe, Users, TrendingUp, BarChart3, Brain, Landmark, History, TreePine, Heart, Lightbulb, Monitor, Languages, Building, CreditCard, DollarSign, Atom, FlaskConical, Dna, Calculator as MathIcon, PieChart, Coins, Building2, TrendingDown, Briefcase, MapPin, Clock, Fuel as Mosque, Scale, HeartHandshake, UserCheck, Wheat, Sprout, BookText, Pen, Code } from "lucide-react";
+
+interface SubjectGridProps {
+  group: string;
+}
+
+interface Subject {
+  id: string;
+  name: string;
+  mainSubject: string;
+  paper: string;
+  icon: any;
+}
+
+export const SubjectGrid = ({ group }: SubjectGridProps) => {
   const navigate = useNavigate();
 
   const getSubjectIcon = (subject: string) => {
